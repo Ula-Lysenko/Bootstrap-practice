@@ -1,0 +1,26 @@
+.header {
+  background-image: url("../images/top-banner.jpg");
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
+  height: 50vh;
+  position: relative;
+}
+
+.group {
+  margin-left: 46%;
+  margin-bottom: 45px;
+  font-size: 70px;
+}
+
+.film {
+  margin-left: 46%;
+  margin-bottom: 45px;
+  font-size: 70px;
+}
+
+.time {
+  margin-left: 47%;
+  margin-bottom: 45px;
+  font-size: 70px;
+}
