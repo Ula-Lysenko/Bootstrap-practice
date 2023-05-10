@@ -1,10 +1,14 @@
-.header {
+.text-wrap {
   background-image: url("../images/top-banner.jpg");
   background-attachment: fixed;
   background-size: cover;
   background-position: center;
   height: 50vh;
   position: relative;
+}
+
+.carousel-indicators [data-bs-target] {
+  background-color: rgb(36, 167, 190);
 }
 
 .group {
